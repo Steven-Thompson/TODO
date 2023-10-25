@@ -1,2 +1,2 @@
 # TODO
-Javascript TODO list to learning
+Javascript TODO list for learning
